@@ -34,6 +34,9 @@ public class RobotDencer extends Robot{
     public void setColorDisco(String colorDisco) {
         this.colorDisco = colorDisco;
     }
+    public void Work(){
+        System.out.println("Ya RobotDancer - ya prosto dancing");
+    }
 
         }
-}
+

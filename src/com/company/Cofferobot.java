@@ -25,7 +25,9 @@ public class Cofferobot extends Robot{
     public void setRozetka(int rozetka) {
         this.rozetka = rozetka;
     }
-
+    public void  Work{
+     System.out.println("Ya CofeRobot - ya prosto varyu cafe");
+    }
 
 
     }
